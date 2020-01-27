@@ -1,2 +1,5 @@
-# ml5-boilerplate: with p5.js
-A basic html, css, javascript boilerplate for working building a project with ml5.js
+# Simple machine learning with ml5.js and p5. 
+
+Based on Coding train examples, such as
+[Train your own neural network](https://www.youtube.com/watch?v=8HEgeAbYphA)
+
